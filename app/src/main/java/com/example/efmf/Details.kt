@@ -1,4 +1,3 @@
-// Details.kt
 package com.example.efmf
 
 import android.os.Bundle
